@@ -1,2 +1,0 @@
-# CyberSecurityCourse-2017
-cybersecuritybase-project ( task from https://cybersecuritybase.github.io/ -- Course Project One -- )
